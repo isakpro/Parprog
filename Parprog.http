@@ -1,0 +1,6 @@
+@Parprog_HostAddress = http://localhost:5280
+
+GET {{Parprog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
